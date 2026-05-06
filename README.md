@@ -15,7 +15,7 @@ ext install t3dotgg.vsc-material-theme-but-i-wont-sue-you
 
 ### Fonts
 
-- Installed font `Operator Mono` from [Github Repository](https://github.com/willfore/vscode_operator_mono_lig). 
+- Installed font `Operator Mono` from [this directory](./fonts/). 
 - Clone the repo and install the fonts inside it by double-clicking it
 
 ### Setup Methodology
